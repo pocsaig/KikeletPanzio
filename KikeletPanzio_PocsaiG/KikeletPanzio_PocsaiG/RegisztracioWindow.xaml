@@ -1,0 +1,21 @@
+﻿<Window x:Class="KikeletPanzio_PocsaiG.RegisztracioWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KikeletPanzio_PocsaiG"
+        mc:Ignorable="d"
+        Title="RegisztracioWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="A név mezőt kötelező kitölteni!" FontSize="20"/>
+            <Label Content="Név*:" Margin="20,10,0,0"/>
+            <TextBox Name="txtBoxRegNev" Width="200" Height="25"/>
+            <Label Content="Születési dátum:" Margin="20,10,0,0"/>
+            <DatePicker Name="dtPickerRegSzuletesiDatum" Width="200" Margin="0,5,0,0"/>
+            <Label Content="Email cím:" Margin="20,10,0,0"/>
+            <TextBox Name="txtBoxRegEmail" Width="200" Margin="0,5,0,0" Height="25"/>
+            <Button Name="btnUgyfelRegisztracio" Height="30" Width="240" Margin="0,20,0,0" Content="Felhasználó regisztrálása" FontSize="19" Click="btnUgyfelRegisztracio_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

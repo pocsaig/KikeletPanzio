@@ -1,0 +1,25 @@
+﻿<Window x:Class="KikeletPanzio_PocsaiG.FoglaloWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KikeletPanzio_PocsaiG"
+        mc:Ignorable="d"
+        Title="FoglaloWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <Button Name="btnFoglalSzoba1" Content="Szoba 1" Width="267" Click="btnFoglalSzoba1_Click"/>
+            <Button Name="btnFoglalSzoba2" Content="Szoba 2" Width="267" Click="btnFoglalSzoba2_Click"/>
+            <Button Name="btnFoglalSzoba3" Content="Szoba 3" Width="266" Click="btnFoglalSzoba3_Click"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <Button Name="btnFoglalSzoba4" Content="Szoba 4" Width="267" Click="btnFoglalSzoba4_Click"/>
+            <Button Name="btnFoglalSzoba5" Content="Szoba 5" Width="267" Click="btnFoglalSzoba5_Click"/>
+            <Button Name="btnFoglalSzoba6" Content="Szoba 6" Width="266" Click="btnFoglalSzoba6_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
