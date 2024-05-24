@@ -31,25 +31,29 @@ namespace KikeletPanzio_PocsaiG
                 if (dtPickerRegSzuletesiDatum.SelectedDate.HasValue == true && txtBoxRegEmail.Text != "") //van dátum, van email
                 {
                     MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, true, false));
+                    Close();
                 }
                 else if (dtPickerRegSzuletesiDatum.SelectedDate.HasValue == true && txtBoxRegEmail.Text == "") //van dátum, nincs email
                 {
                     MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, false, false));
+                    Close();
                 }
                 else if (dtPickerRegSzuletesiDatum.SelectedDate.HasValue == false && txtBoxRegEmail.Text != "") //nincs dátum, van email
                 {
                     MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, false, false));  //Ha nincs value mivan?? meg kell nézni
+                    Close();
                 }
                 else //nincs dátum, nincs email
                 {
-                    MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, false, false));
+                    MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, DateTime.MinValue, txtBoxRegEmail.Text, false, false));
+                    Close();
                 }
             }
             else
             {
                 MessageBox.Show("Nincs kitöltve a NÉV mező!");
             }
-            MessageBox.Show(string.Join(" ", MainWindow.ugyfelek));
+
 
         }
     }

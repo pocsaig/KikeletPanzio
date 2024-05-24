@@ -26,6 +26,24 @@ namespace KikeletPanzio_PocsaiG
 
         private void btnVisszateroBejelentkezes_Click(object sender, RoutedEventArgs e)
         {
+            if (txtBoxVisszateroEmail.Text != "")
+            {
+                for (int i = 0; i < MainWindow.ugyfelek.Count; i++)
+                {
+                    if (txtBoxVisszateroEmail.Text == MainWindow.ugyfelek[i].Email)
+                    {
+                        MessageBox.Show("Beazonosítva: ");
+                        Close();
+                        return;
+                    }
+                    
+                }
+                MessageBox.Show("Nincs ilyen!");
+            }
+            else
+            {
+                MessageBox.Show("Üres mező!");
+            }
 
         }
     }
