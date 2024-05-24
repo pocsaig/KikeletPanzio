@@ -8,15 +8,20 @@
         Title="FoglaloWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal" Grid.Row="0">
+        <Menu>
+            <MenuItem Name="menuUgyfelek" Header="Ügyfelek" Click="menuUgyfelek_Click"/>
+            <MenuItem Header="valami2"/>
+        </Menu>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
             <Button Name="btnFoglalSzoba1" Content="Szoba 1" Width="267" Click="btnFoglalSzoba1_Click"/>
-            <Button Name="btnFoglalSzoba2" Content="Szoba 2" Width="267" Click="btnFoglalSzoba2_Click"/>
+            <Button Name="btnFoglalSzoba2" Content="Szoba 2" Width="267" Click="btnFoglalSzoba2_Click" IsEnabled="False"/>
             <Button Name="btnFoglalSzoba3" Content="Szoba 3" Width="266" Click="btnFoglalSzoba3_Click"/>
         </StackPanel>
-        <StackPanel Orientation="Horizontal" Grid.Row="1">
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
             <Button Name="btnFoglalSzoba4" Content="Szoba 4" Width="267" Click="btnFoglalSzoba4_Click"/>
             <Button Name="btnFoglalSzoba5" Content="Szoba 5" Width="267" Click="btnFoglalSzoba5_Click"/>
             <Button Name="btnFoglalSzoba6" Content="Szoba 6" Width="266" Click="btnFoglalSzoba6_Click"/>

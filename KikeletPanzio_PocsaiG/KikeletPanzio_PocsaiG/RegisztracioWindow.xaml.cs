@@ -46,6 +46,8 @@ namespace KikeletPanzio_PocsaiG
                 else //nincs dátum, nincs email
                 {
                     MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, DateTime.MinValue, txtBoxRegEmail.Text, false, false));
+                    FoglaloWindow ujFoglaloWindow = new FoglaloWindow();
+                    ujFoglaloWindow.btnFoglalSzoba4.IsEnabled = false;
                     Close();
                 }
             }

@@ -32,7 +32,16 @@ namespace KikeletPanzio_PocsaiG
                 {
                     if (txtBoxVisszateroEmail.Text == MainWindow.ugyfelek[i].Email)
                     {
-                        MessageBox.Show("Beazonosítva: ");
+                        MessageBox.Show("Beazonosítva");
+                        FoglaloWindow.kattintottSzoba.IsEnabled = false;
+                        for (int j = 0; j < MainWindow.ugyfelek.Count; j++)
+                        {
+                            if (MainWindow.ugyfelek[j].Email == txtBoxVisszateroEmail.Text)
+                            {
+                                FoglaloWindow.kattintottSzoba.Content = $"Foglalt: {MainWindow.ugyfelek[j].Nev}";
+                                break;
+                            }
+                        }
                         Close();
                         return;
                     }

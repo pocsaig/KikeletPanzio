@@ -25,12 +25,12 @@ namespace KikeletPanzio_PocsaiG
         public MainWindow()
         {
             InitializeComponent();
-            szobak.Add(new Szoba(1, 2, 6000, false));
-            szobak.Add(new Szoba(2, 3, 8000, false));
-            szobak.Add(new Szoba(3, 4, 10500, false));
-            szobak.Add(new Szoba(4, 2, 7500, false));
-            szobak.Add(new Szoba(5, 4, 11000, false));
-            szobak.Add(new Szoba(6, 4, 12000, false));
+            szobak.Add(new Szoba(1, 2, 6000, false, "Nincs"));
+            szobak.Add(new Szoba(2, 3, 8000, false, "Admin"));
+            szobak.Add(new Szoba(3, 4, 10500, false, "Nincs"));
+            szobak.Add(new Szoba(4, 2, 7500, false, "Nincs"));
+            szobak.Add(new Szoba(5, 4, 11000, false, "Nincs"));
+            szobak.Add(new Szoba(6, 4, 12000, false, "Nincs"));
 
             DateTime szulEv = new DateTime(2004, 02, 06, 10, 10, 10);
             ugyfelek.Add(new Ugyfel("adminhaver", szulEv, "pocsaig@kkszki.hu", true, true));
@@ -48,7 +48,7 @@ namespace KikeletPanzio_PocsaiG
             }
             else
             {
-                MessageBox.Show("Helytelen felhasználónév, vagy jelszó!");
+                MessageBox.Show("Helytelen felhasználónév vagy jelszó!");
             }
         }
     }

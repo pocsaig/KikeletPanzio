@@ -52,3 +52,5 @@ C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\K
 C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\KikeletPanzio_PocsaiG\obj\Debug\net7.0-windows\KikeletPanzio_PocsaiG.pdb
 C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\KikeletPanzio_PocsaiG\obj\Debug\net7.0-windows\KikeletPanzio_PocsaiG.genruntimeconfig.cache
 C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\KikeletPanzio_PocsaiG\obj\Debug\net7.0-windows\ref\KikeletPanzio_PocsaiG.dll
+C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\KikeletPanzio_PocsaiG\obj\Debug\net7.0-windows\UgyfelekWindow.g.cs
+C:\Users\stamás\Desktop\KikeletPanzio_GIT\KikeletPanzio\KikeletPanzio_PocsaiG\KikeletPanzio_PocsaiG\obj\Debug\net7.0-windows\UgyfelekWindow.baml
