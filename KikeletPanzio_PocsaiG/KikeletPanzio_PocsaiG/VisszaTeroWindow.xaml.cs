@@ -19,9 +19,38 @@ namespace KikeletPanzio_PocsaiG
     /// </summary>
     public partial class VisszaTeroWindow : Window
     {
+        public static string email;
+        public static int ferohely = 0;
+        public static DatePicker ujDtPickerStart = new DatePicker();
+        public static DatePicker ujDtPickerEnd = new DatePicker();
         public VisszaTeroWindow()
         {
             InitializeComponent();
+            if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba1")
+            {
+                ferohely = 2;
+            }
+            else if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba2")
+            {
+                ferohely = 3;
+            }
+            else if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba3")
+            {
+                ferohely = 4;
+            }
+            else if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba4")
+            {
+                ferohely = 2;
+            }
+            else if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba5")
+            {
+                ferohely = 4;
+            }
+            else if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba6")
+            {
+                ferohely = 4;
+            }
+
         }
 
         private void btnVisszateroBejelentkezes_Click(object sender, RoutedEventArgs e)
@@ -33,19 +62,41 @@ namespace KikeletPanzio_PocsaiG
                     if (txtBoxVisszateroEmail.Text == MainWindow.ugyfelek[i].Email)
                     {
                         MessageBox.Show("Beazonosítva");
-                        FoglaloWindow.kattintottSzoba.IsEnabled = false;
-                        for (int j = 0; j < MainWindow.ugyfelek.Count; j++)
+                        email = txtBoxVisszateroEmail.Text;
+                        stckPanelVisszaTero.Children.Clear();
+                        Label ujLabelCMB = new Label();
+                        ujLabelCMB.Content = "Hány fő:";
+                        ujLabelCMB.Margin = new Thickness(10);
+                        ComboBox ujComboBox = new ComboBox();
+                        ujComboBox.Margin = new Thickness(10);
+                        for (int j = 1; j < ferohely + 1; j++)
                         {
-                            if (MainWindow.ugyfelek[j].Email == txtBoxVisszateroEmail.Text)
-                            {
-                                FoglaloWindow.kattintottSzoba.Content = $"Foglalt: {MainWindow.ugyfelek[j].Nev}";
-                                break;
-                            }
+                            ujComboBox.Items.Add(j.ToString());
                         }
-                        Close();
-                        return;
+                        ujComboBox.SelectedIndex = 0;
+                        stckPanelVisszaTero.Children.Add(ujComboBox);
+                        Label ujLblStart = new Label();
+                        ujLblStart.Margin = new Thickness(10);
+                        ujLblStart.Content = "Mettől:";
+                        stckPanelVisszaTero.Children.Add(ujLblStart);
+                        
+                        ujDtPickerStart.Margin = new Thickness(10);
+                        stckPanelVisszaTero.Children.Add(ujDtPickerStart);
+                        Label ujLblEnd = new Label();
+                        ujLblEnd.Margin = new Thickness(10);
+                        ujLblEnd.Content = "Meddig:";
+                        stckPanelVisszaTero.Children.Add(ujLblEnd);
+                        
+                        ujDtPickerEnd.Margin = new Thickness(10);
+                        stckPanelVisszaTero.Children.Add(ujDtPickerEnd);
+                        Button ujBtnFoglal = new Button();
+                        ujBtnFoglal.Content = "Foglalás";
+                        ujBtnFoglal.Click += EmailKereses_Click;
+                        stckPanelVisszaTero.Children.Add(ujBtnFoglal);
+
+                        //Valami megoldás kéne arra, hogy várja a clicket minden féle képp
                     }
-                    
+
                 }
                 MessageBox.Show("Nincs ilyen!");
             }
@@ -54,6 +105,22 @@ namespace KikeletPanzio_PocsaiG
                 MessageBox.Show("Üres mező!");
             }
 
+        }
+
+        private void EmailKereses_Click(object sender, RoutedEventArgs e)
+        {
+            FoglaloWindow.kattintottSzoba.IsEnabled = false;
+            for (int j = 0; j < MainWindow.ugyfelek.Count; j++)
+            {
+                if (MainWindow.ugyfelek[j].Email == email)
+                {
+                    FoglaloWindow.kattintottSzoba.Content = $"Foglalt: {MainWindow.ugyfelek[j].Nev}";
+                    FoglaloWindow.kattintottSzoba.Content += $"\n{ujDtPickerStart.SelectedDate} - {ujDtPickerEnd.SelectedDate}";
+                    break;
+                }
+            }
+            Close();
+            return;
         }
     }
 }

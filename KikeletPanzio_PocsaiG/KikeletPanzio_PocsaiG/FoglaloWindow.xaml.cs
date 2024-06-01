@@ -90,5 +90,10 @@ namespace KikeletPanzio_PocsaiG
             Close();
             ujUgyfelekWindow.Show();
         }
+
+        private void menuStats_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

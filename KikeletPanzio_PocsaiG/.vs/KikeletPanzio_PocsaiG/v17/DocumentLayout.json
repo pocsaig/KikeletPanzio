@@ -1,41 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\",
+  "WorkspaceRootPath": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\visszaterowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\visszaterowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\visszaterowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\foglalowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\foglalowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\regisztraciowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\foglalowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\foglalowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\regisztraciowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\regisztraciowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\foglalowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\foglalowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\szoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\szoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\szoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfelekwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\foglalowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\foglalowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\regisztraciowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\regisztraciowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\visszaterowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\visszaterowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfelekwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\ugyfelekwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfelekwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfelekwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\ugyfelekwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\stam\u00E1s\\desktop\\kikeletpanzio_git\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|c:\\users\\papa\\desktop\\kikeletpanzio\\kikeletpanzio_pocsaig\\kikeletpanzio_pocsaig\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5AEBBC0-B714-44D6-B705-985AB57B9DF9}|KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj|solutionrelative:kikeletpanzio_pocsaig\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,40 +54,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UgyfelekWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
-              "RelativeToolTip": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Title": "VisszaTeroWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml",
+              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml",
+              "RelativeToolTip": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T20:24:28.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisszaTeroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
+              "RelativeToolTip": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGAAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T08:46:22.316Z",
+              "WhenOpened": "2024-05-24T06:43:30.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UgyfelekWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
-              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
-              "RelativeToolTip": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
+              "Title": "RegisztracioWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml",
+              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml",
+              "RelativeToolTip": "KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T08:45:54.503Z",
+              "WhenOpened": "2024-06-01T20:17:35.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FoglaloWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\FoglaloWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-24T08:24:01.57Z",
@@ -87,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Szoba.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Szoba.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Szoba.cs",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\Szoba.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Szoba.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Szoba.cs",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\Szoba.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABTAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T08:05:25.857Z",
               "EditorCaption": ""
@@ -102,61 +122,73 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RegisztracioWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\RegisztracioWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAcAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T08:02:34.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAtwB8AAAA/AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBwAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T08:02:33.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FoglaloWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\FoglaloWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAA3AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T08:02:32.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VisszaTeroWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
-              "RelativeToolTip": "KikeletPanzio_PocsaiG\\VisszaTeroWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAlwBsAAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "UgyfelekWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
+              "RelativeToolTip": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:43:30.23Z",
+              "WhenOpened": "2024-05-24T08:46:22.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UgyfelekWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
+              "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
+              "RelativeToolTip": "KikeletPanzio_PocsaiG\\UgyfelekWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T08:45:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ugyfel.cs",
-              "DocumentMoniker": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Ugyfel.cs",
+              "DocumentMoniker": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Ugyfel.cs",
               "RelativeDocumentMoniker": "KikeletPanzio_PocsaiG\\Ugyfel.cs",
-              "ToolTip": "C:\\Users\\stam\u00E1s\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Ugyfel.cs",
+              "ToolTip": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\Ugyfel.cs",
               "RelativeToolTip": "KikeletPanzio_PocsaiG\\Ugyfel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

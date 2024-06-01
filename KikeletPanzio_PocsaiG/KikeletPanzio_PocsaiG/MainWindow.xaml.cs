@@ -25,12 +25,12 @@ namespace KikeletPanzio_PocsaiG
         public MainWindow()
         {
             InitializeComponent();
-            szobak.Add(new Szoba(1, 2, 6000, false, "Nincs"));
-            szobak.Add(new Szoba(2, 3, 8000, false, "Admin"));
-            szobak.Add(new Szoba(3, 4, 10500, false, "Nincs"));
-            szobak.Add(new Szoba(4, 2, 7500, false, "Nincs"));
-            szobak.Add(new Szoba(5, 4, 11000, false, "Nincs"));
-            szobak.Add(new Szoba(6, 4, 12000, false, "Nincs"));
+            szobak.Add(new Szoba(1, 2, 6000, false, "Nincs", DateTime.MinValue, DateTime.MinValue, 0, 0));
+            szobak.Add(new Szoba(2, 3, 8000, false, "Admin", DateTime.MinValue, DateTime.MaxValue, 0, 0));
+            szobak.Add(new Szoba(3, 4, 10500, false, "Nincs", DateTime.MinValue, DateTime.MinValue, 0, 0));
+            szobak.Add(new Szoba(4, 2, 7500, false, "Nincs", DateTime.MinValue, DateTime.MinValue, 0, 0));
+            szobak.Add(new Szoba(5, 4, 11000, false, "Nincs", DateTime.MinValue, DateTime.MinValue, 0, 0));
+            szobak.Add(new Szoba(6, 4, 12000, false, "Nincs", DateTime.MinValue, DateTime.MinValue, 0, 0));
 
             DateTime szulEv = new DateTime(2004, 02, 06, 10, 10, 10);
             ugyfelek.Add(new Ugyfel("adminhaver", szulEv, "pocsaig@kkszki.hu", true, true));
@@ -44,6 +44,7 @@ namespace KikeletPanzio_PocsaiG
             if (txtBoxAdminF.Text == "admin" && txtBoxAdminJ.Text == "asd")
             {
                 FoglaloWindow ujFoglaloWindow = new FoglaloWindow();
+                Close();
                 ujFoglaloWindow.Show();
             }
             else

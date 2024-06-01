@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
         <Menu>
             <MenuItem Name="menuUgyfelek" Header="Ügyfelek" Click="menuUgyfelek_Click"/>
-            <MenuItem Header="valami2"/>
+            <MenuItem Name="menuStats" Header="Statisztikák" Click="menuStats_Click"/>
         </Menu>
         <StackPanel Orientation="Horizontal" Grid.Row="1">
             <Button Name="btnFoglalSzoba1" Content="Szoba 1" Width="267" Click="btnFoglalSzoba1_Click"/>

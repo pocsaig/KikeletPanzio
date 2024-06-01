@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yVz6sco/UXU=",
+  "dgSpecHash": "fKlltPGK0M+2Zd/+cPzqAOUDi+UwpeHlY39kd971EG/kkABFaP8ANY3YlsGynIq4xfYYcR0UUTuDMShcwikl8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stamás\\Desktop\\KikeletPanzio_GIT\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Papa\\Desktop\\KikeletPanzio\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG\\KikeletPanzio_PocsaiG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Papa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
