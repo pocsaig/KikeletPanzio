@@ -16,7 +16,7 @@ namespace KikeletPanzio_PocsaiG
         string foglaltBy;
         DateTime foglaltStart;
         DateTime foglaltEnd;
-        int foglaltForDays;
+        int foglaltForDays; 
         int foglaltOsszAr;
 
         public Szoba(int szobaSzam, int ferohely, int ar, bool foglalt, string foglaltBy, DateTime foglaltStart, DateTime foglaltEnd, int foglaltForDays, int foglaltOsszAr)

@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="RegisztracioWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel Name="stckPanelReg" VerticalAlignment="Center" HorizontalAlignment="Center">
             <Label Content="A név mezőt kötelező kitölteni!" FontSize="20"/>
             <Label Content="Név*:" Margin="20,10,0,0"/>
             <TextBox Name="txtBoxRegNev" Width="200" Height="25"/>

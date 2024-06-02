@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Threading;
+using System.Windows.Threading;
 
 namespace KikeletPanzio_PocsaiG
 {
@@ -53,7 +55,7 @@ namespace KikeletPanzio_PocsaiG
 
         }
 
-        private void btnVisszateroBejelentkezes_Click(object sender, RoutedEventArgs e)
+        private async void btnVisszateroBejelentkezes_Click(object sender, RoutedEventArgs e)
         {
             if (txtBoxVisszateroEmail.Text != "")
             {
@@ -94,7 +96,9 @@ namespace KikeletPanzio_PocsaiG
                         ujBtnFoglal.Click += EmailKereses_Click;
                         stckPanelVisszaTero.Children.Add(ujBtnFoglal);
 
-                        //Valami megoldás kéne arra, hogy várja a clicket minden féle képp
+
+
+                        return;
                     }
 
                 }
@@ -120,7 +124,6 @@ namespace KikeletPanzio_PocsaiG
                 }
             }
             Close();
-            return;
         }
     }
 }
