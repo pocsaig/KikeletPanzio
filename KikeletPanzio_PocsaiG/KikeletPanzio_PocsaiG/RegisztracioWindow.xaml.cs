@@ -26,6 +26,7 @@ namespace KikeletPanzio_PocsaiG
         public RegisztracioWindow()
         {
             InitializeComponent();
+            //ferohelyReg = Convert.ToInt32(FoglaloWindow.kattintottSzoba.Name[FoglaloWindow.kattintottSzoba.Name.Length - 1]);
             if (FoglaloWindow.kattintottSzoba.Name == "btnFoglalSzoba1")
             {
                 ferohelyReg = 2;
@@ -70,7 +71,7 @@ namespace KikeletPanzio_PocsaiG
                 }
                 else if (dtPickerRegSzuletesiDatum.SelectedDate.HasValue == false && txtBoxRegEmail.Text != "") //nincs dátum, van email
                 {
-                    MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, false, false));  //Ha nincs value mivan?? meg kell nézni
+                    MainWindow.ugyfelek.Add(new Ugyfel(txtBoxRegNev.Text, dtPickerRegSzuletesiDatum.SelectedDate.Value, txtBoxRegEmail.Text, false, false));
                     Foglalasos();
                     
                 }
